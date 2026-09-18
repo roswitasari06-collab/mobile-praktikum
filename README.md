@@ -1,17 +1,15 @@
-# project_pertama
+# Proyek Pemrograman Mobile
 
-A new Flutter project.
+## Tujuan
+Aplikasi latihan untuk pengembangan aplikasi mobile menggunakan Flutter.
 
-## Getting Started
+## Rencana Fitur
+1. Navigasi halaman utama.
+2. Manajemen state sederhana.
+3. Integrasi data dan penyimpanan lokal.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan
+Pastikan Flutter sudah terinstal, lalu jalankan perintah berikut di terminal:
+```bash
+flutter pub get
+flutter run
