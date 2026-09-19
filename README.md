@@ -14,3 +14,4 @@ Pastikan Flutter sudah terinstal, lalu jalankan perintah berikut di terminal:
 flutter pub get
 flutter run
 Catatan: Selesai
+<!-- pembaruan tugas praktikum -->
