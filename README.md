@@ -13,3 +13,4 @@ Pastikan Flutter sudah terinstal, lalu jalankan perintah berikut di terminal:
 ```bash
 flutter pub get
 flutter run
+Catatan: Selesai
